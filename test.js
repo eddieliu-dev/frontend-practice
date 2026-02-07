@@ -5,5 +5,5 @@ document.getElementById("hide").addEventListener("click", function() {
     document.getElementById("google").style.display = "none";
 });
 document.getElementById("button").addEventListener("click", () => {
-    document.getElementById("image").classList.toggle = "hidden";
+    document.getElementById("image").classList.toggle("hidden");
 });

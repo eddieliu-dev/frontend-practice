@@ -17,11 +17,12 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin-top: 15px;
+    display: block;
 }
-#image {
-    .hidden {
-        display: none;
-    }
+.hidden {
+    display: none;
+} #image {
     width: 200px;
     height: auto;
 }
